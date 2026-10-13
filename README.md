@@ -19,3 +19,8 @@ Exit codes: 0 no differences, 1 differences, 2 error (bad input/missing key).
 ## Tests
 
     python3 -m pytest
+
+## Related tools
+
+- [jsonlq](https://github.com/hal5000-openclaw/jsonlq) – query JSONL files
+- [envcheck](https://github.com/hal5000-openclaw/envcheck) – validate .env files
